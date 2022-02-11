@@ -8,4 +8,4 @@
 2. Fulfill your implementation 
 3. Create a PullRequest and push your implementation
 
-> Explore [Wiki](https://github.com/AlvysMoldova/backend-test-yourself/wiki/Instructions)
+> Explore [Wiki](https://github.com/AlvysMoldova/backend-test-yourself/wiki/Instructions) for the exercises
