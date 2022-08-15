@@ -10,7 +10,7 @@ Console.WriteLine($"Map result: {JsonConvert.SerializeObject(result1)}");
 
 var result2 = exampleValues.Fold("", (str, x) => str + x);
 
-Console.WriteLine($"Fols result: {JsonConvert.SerializeObject(result2)}");
+Console.WriteLine($"Fold result: {JsonConvert.SerializeObject(result2)}");
 
 
 var result3 = exampleValues.Map2(i => i.ToString());
