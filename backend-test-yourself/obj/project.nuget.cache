@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "hBnK+LEtU8XGjeLIq1bhg5xhTdiapzoG1GMJc3QOeYB3z6lTiXtuL+KcaibkFyaqvyBH099phIXRjnVHDzbtnw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\vladimir.petrusevici\\source\\repos\\backend-test-yourself\\backend-test-yourself\\backend-test-yourself.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\vladimir.petrusevici\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

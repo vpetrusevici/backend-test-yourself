@@ -1,0 +1,17 @@
+C:\Users\vladimir.petrusevici\source\repos\backend-test-yourself\backend-test-yourself\bin\Debug\net6.0\backend-test-yourself.exe
+C:\Users\vladimir.petrusevici\source\repos\backend-test-yourself\backend-test-yourself\bin\Debug\net6.0\backend-test-yourself.deps.json
+C:\Users\vladimir.petrusevici\source\repos\backend-test-yourself\backend-test-yourself\bin\Debug\net6.0\backend-test-yourself.runtimeconfig.json
+C:\Users\vladimir.petrusevici\source\repos\backend-test-yourself\backend-test-yourself\bin\Debug\net6.0\backend-test-yourself.dll
+C:\Users\vladimir.petrusevici\source\repos\backend-test-yourself\backend-test-yourself\bin\Debug\net6.0\backend-test-yourself.pdb
+C:\Users\vladimir.petrusevici\source\repos\backend-test-yourself\backend-test-yourself\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\vladimir.petrusevici\source\repos\backend-test-yourself\backend-test-yourself\obj\Debug\net6.0\backend-test-yourself.csproj.AssemblyReference.cache
+C:\Users\vladimir.petrusevici\source\repos\backend-test-yourself\backend-test-yourself\obj\Debug\net6.0\backend-test-yourself.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vladimir.petrusevici\source\repos\backend-test-yourself\backend-test-yourself\obj\Debug\net6.0\backend-test-yourself.AssemblyInfoInputs.cache
+C:\Users\vladimir.petrusevici\source\repos\backend-test-yourself\backend-test-yourself\obj\Debug\net6.0\backend-test-yourself.AssemblyInfo.cs
+C:\Users\vladimir.petrusevici\source\repos\backend-test-yourself\backend-test-yourself\obj\Debug\net6.0\backend-test-yourself.csproj.CoreCompileInputs.cache
+C:\Users\vladimir.petrusevici\source\repos\backend-test-yourself\backend-test-yourself\obj\Debug\net6.0\backend-test-yourself.csproj.CopyComplete
+C:\Users\vladimir.petrusevici\source\repos\backend-test-yourself\backend-test-yourself\obj\Debug\net6.0\backend-test-yourself.dll
+C:\Users\vladimir.petrusevici\source\repos\backend-test-yourself\backend-test-yourself\obj\Debug\net6.0\refint\backend-test-yourself.dll
+C:\Users\vladimir.petrusevici\source\repos\backend-test-yourself\backend-test-yourself\obj\Debug\net6.0\backend-test-yourself.pdb
+C:\Users\vladimir.petrusevici\source\repos\backend-test-yourself\backend-test-yourself\obj\Debug\net6.0\backend-test-yourself.genruntimeconfig.cache
+C:\Users\vladimir.petrusevici\source\repos\backend-test-yourself\backend-test-yourself\obj\Debug\net6.0\ref\backend-test-yourself.dll
